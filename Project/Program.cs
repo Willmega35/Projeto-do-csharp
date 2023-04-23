@@ -21,7 +21,7 @@ if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3)){
 }
 
 if (total >= 15){
-    Console.WriteLine("Voc~e venceu!!");
+    Console.WriteLine("Você venceu!!");
 }
 
 else if (total <= 14) {
