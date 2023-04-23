@@ -33,9 +33,9 @@ else if (total > 10) {
 }
 
 else if (total == 8) {
-    Console.WriteLine("Você conseguir uma viagem só  de ida para qualquer lugar!")
+    Console.WriteLine("Você conseguir uma viagem só  de ida para qualquer lugar!");
 }
 
 else if (total <= 7) {
-    Console.WriteLine("Você consegui um aperto de mão")
+    Console.WriteLine("Você consegui um aperto de mão");
 }
