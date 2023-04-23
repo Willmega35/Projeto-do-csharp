@@ -39,3 +39,5 @@ else if (total == 8) {
 else if (total <= 7) {
     Console.WriteLine("Você consegui um aperto de mão");
 }
+
+Console.ReadKey();

@@ -1,0 +1,15 @@
+D:\Projetos_Github\Projeto-do-csharp\Project\bin\Debug\net7.0\ProjectDice.exe
+D:\Projetos_Github\Projeto-do-csharp\Project\bin\Debug\net7.0\ProjectDice.deps.json
+D:\Projetos_Github\Projeto-do-csharp\Project\bin\Debug\net7.0\ProjectDice.runtimeconfig.json
+D:\Projetos_Github\Projeto-do-csharp\Project\bin\Debug\net7.0\ProjectDice.dll
+D:\Projetos_Github\Projeto-do-csharp\Project\bin\Debug\net7.0\ProjectDice.pdb
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.csproj.AssemblyReference.cache
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.AssemblyInfoInputs.cache
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.AssemblyInfo.cs
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.csproj.CoreCompileInputs.cache
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.dll
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\refint\ProjectDice.dll
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.pdb
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ProjectDice.genruntimeconfig.cache
+D:\Projetos_Github\Projeto-do-csharp\Project\obj\Debug\net7.0\ref\ProjectDice.dll
